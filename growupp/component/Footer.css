@@ -1,0 +1,96 @@
+#f{
+    height: 55vh;
+    width: 100%;
+    display: flex;
+    background-color: #EFEFEF;
+}
+
+#f1,#f2,#f3{
+    /* border: 2px solid; */
+    height: 100%;
+    padding-top: 50px;
+    box-sizing: border-box;
+}
+#f1{
+    width: 40%;
+    padding-left: 80px;
+}
+#f2{
+    width: 30%;
+    padding-left: 40px;
+}
+#f3{
+    width: 30%;
+    padding-left: 30px;
+}
+
+#f2 li{
+    list-style: none;
+    margin-top: 15px;
+    color: #666666;
+}
+#f2 li :hover{
+    
+    
+    color: #FD8601;;
+}
+
+.bor{
+    width: 70px;
+    border: 2px solid orange;
+    margin-top: 15px;
+    border-radius: 10px;
+}
+#inpsec{
+    /* border: 2px solid; */
+    display: flex;
+    width: fit-content;
+    height: 40px;
+    margin-top: 15px;
+}
+#t{
+    height: 40px;
+    border-radius: 10px;
+    padding-left: 20px;
+    width: 200px;
+    border: none;
+}
+
+#ic1{
+    color: white;
+    font-size: 25px;
+}
+#inp{
+    background-color:#FD8601;;
+    /* border: 2px solid; */
+    border-radius: 10px;
+    height: 40px;
+    width: 40px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+#sp1{
+    color: #FD8601;
+}
+
+#f3 p{
+    margin-top: 15px;
+    color:  #666666;
+}
+#logo2{
+    margin-top: -20px;
+}
+#f1 p
+{
+    margin-top: 10px;
+    margin-bottom: 20px;
+    color:  #666666;
+}
+.social
+{
+    height: 60px;
+    width: 60px;
+    padding-left: -10px ;
+}
